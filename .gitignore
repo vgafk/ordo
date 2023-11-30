@@ -162,3 +162,5 @@ cython_debug/
 #Visual Paradigm back
 *.vpp.bak*
 *.vpp.lck
+
+settings.py
